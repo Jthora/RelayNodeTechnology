@@ -349,3 +349,11 @@ This structured review process ensures that all contributions enhance the docume
 This work is officially dedicated to the **Public Domain** under the **Creative Commons Zero (CC0) 1.0 Universal** license. By applying this license, we voluntarily waive all copyright and related rights to the fullest extent allowed by law. This ensures that anyone can freely use, share, adapt, and build upon this work without any legal restrictions or the need for permission.
 
 For the full text of the CC0 license, please visit the [Creative Commons Zero (CC0) 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/).
+
+## 11. Community and Support
+
+Join our growing community of developers, contributors, and enthusiasts on Discord! This is the perfect place to discuss RelayNode technology, share ideas, and get help with your projects.
+
+[![Join Our Discord](https://img.shields.io/discord/123456789012345678?logo=discord)](https://discord.gg/UYrjwykskz)
+
+Click the badge above or follow this link to join the discussion: [Join our Discord community](https://discord.gg/UYrjwykskz).
