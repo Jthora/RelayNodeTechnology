@@ -1,7 +1,7 @@
 # Defensive Publication Notice
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13368419.svg)](https://doi.org/10.5281/zenodo.13368419)
 ## RelayNode Technology
 Public Domain Documentation for Decentralized Networks
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13368419.svg)](https://doi.org/10.5281/zenodo.13368419)
 
 ## 1. Introduction
 
