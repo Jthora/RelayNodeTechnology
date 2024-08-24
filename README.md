@@ -1,4 +1,5 @@
-# RelayNode Technology - Defensive Publication Notice.
+# Defensive Publication Notice
+## RelayNode Technology
 Public Domain Documentation for Decentralized Networks
 
 ## 1. Introduction
