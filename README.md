@@ -354,6 +354,6 @@ For the full text of the CC0 license, please visit the [Creative Commons Zero (C
 
 Join our growing community of developers, contributors, and enthusiasts on Discord! This is the perfect place to discuss RelayNode technology, share ideas, and get help with your projects.
 
-[![Join Our Discord](https://img.shields.io/discord/123456789012345678?logo=discord)](https://discord.gg/UYrjwykskz)
+[![Join Our Discord](https://img.shields.io/discord/1276742681321799750?logo=discord)](https://discord.gg/UYrjwykskz)
 
 Click the badge above or follow this link to join the discussion: [Join our Discord community](https://discord.gg/UYrjwykskz).
